@@ -71,3 +71,6 @@ Favorite pattern = testable object
 Testable Billing Processor (publically exposes mocsks)
 
 Current? PaidThroughYear ,PaidThroughMonth
+
+
+Patterns: Testable Object + Inner class per context
